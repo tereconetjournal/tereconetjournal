@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "TERECONET Journal of Education",
+    "description": "",
+    "home_page_url": "https://www.teje.net",
+    "feed_url": "https://www.teje.net/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Vu Tran Thanh"
+    },
+    "items": [
+    ]
+}
